@@ -1,2 +1,2 @@
 # hiperlux-designers
-publico 
+publico .
